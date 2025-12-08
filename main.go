@@ -3,5 +3,5 @@ package yandexlycee
 import "fmt"
 
 func main() {
-	fmt.Println("Hello lycee!")
+	fmt.Println("Long live Lycee!")
 }
