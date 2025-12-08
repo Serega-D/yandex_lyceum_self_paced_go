@@ -1,0 +1,7 @@
+package yandexlycee
+
+import "fmt"
+
+func main() {
+	fmt.Println("Hello lycee!")
+}
